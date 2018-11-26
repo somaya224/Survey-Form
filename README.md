@@ -1,5 +1,5 @@
 <h1>Survey Form</h1>
-This page is the first project of the first five Introduction to the Responsive Web Design Projects (FreeCodeCamp).
+This page is the first project of the second five Introduction to the Responsive Web Design Projects (FreeCodeCamp).
 in order to create those five projects we needed to finish a <strong>Responsive Web Design Certification (300 hours)</strong>,
 which is divided into those chalanges
  <ol>
